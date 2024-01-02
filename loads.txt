@@ -1,0 +1,15 @@
+Read a chapter from a book.
+Practice mindfulness for 5 minutes.
+Exercise for 30 minutes.
+Review and organize email inbox.
+Watch an educational video.
+Plan the next day's tasks.
+Write a blog post.
+Listen to a podcast.
+Try a new recipe.
+Learn a new language word.
+Draw or doodle for creativity.
+Listen to music.
+Review and update resume.
+Complete the To do app
+Practice text storing using python
