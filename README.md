@@ -15,13 +15,13 @@ Task Tracker Application is a simple task management tool with a graphical user 
 
 ## Screenshots
 - **User Interface**: UI of the app with all the available options.
-![Screenshot 1](screenshots\Task_Tracker.png)
+![Screenshot 1](https://github.com/munichandra33/Task-Tracker-Application/blob/main/screenshots/Task_Tracker.png)
 
 - **Loaded Tasks List**: Tasks stored previously is displayed.
-![Screenshot 2](screenshots\Tasks_loaded.png)
+![Screenshot 2](https://github.com/munichandra33/Task-Tracker-Application/blob/main/screenshots/Tasks_loaded.png)
 
 - **Exit App**: Confirmation to exit the app.
-![Screenshot 3](screenshots\Exit.png)
+![Screenshot 3](https://github.com/munichandra33/Task-Tracker-Application/blob/main/screenshots/Exit.png)
 
 ## How to Contribute
 
